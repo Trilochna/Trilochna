@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 
 - 👯 I’m collaborating on [Face Recognition Live Model](https://github.com/piyush033/Face-Recognition-Model)
 
-- 📫 How to reach me **vaidtrilochna@gmail.com**
+- 📫 Reach me at **vaidtrilochna@gmail.com**
 
 - 👨‍💻 All of my projects are available in [my Github Repositories](https://github.com/Trilochna?tab=repositories)
 
-- 📝 I regularly write articles on medium: [@vaidtrilochna](https://medium.com/@vaidtrilochna)
+- 📝 Find my articles on medium: [@vaidtrilochna](https://medium.com/@vaidtrilochna)
 
 - 💬 Ask me about **Cloud Computing, DevOps and it's frameworks**
 
