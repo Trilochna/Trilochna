@@ -37,7 +37,15 @@ Here are some ideas to get you started:
 - 📄 Check my resume by [Clicking Here!!](https://drive.google.com/file/d/1Oa2NbTlxgoMb2FwanYvSxaKvwiI3oRBY/view?usp=sharing)
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/#8186) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/trilochnavaid) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/trilochnavaid/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vaidtrilochna) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Trilochna) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Trilochna_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/Trilochna) <a href="https://www.leetcode.com/trilochna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="trilochna" height="30" width="40" /></a>
+<p align="left">
+<a href="https://twitter.com/trilochna_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="trilochna_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/trilochnavaid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trilochnavaid/" height="30" width="40" /></a>
+<a href="https://instagram.com/trilochnavaid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="trilochnavaid" height="30" width="40" /></a>
+<a href="https://medium.com/@vaidtrilochna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vaidtrilochna" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/trilochna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="trilochna" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/trilochna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="trilochna" height="30" width="40" /></a>
+<a href="https://discord.gg/#8186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#8186" height="30" width="40" /></a>
+</p>
 
 <!--
 <h3 align="left">Connect with me:</h3>
