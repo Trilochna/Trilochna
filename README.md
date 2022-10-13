@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 
 # 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trilochna&show_icons=true&locale=en&layout=compact" alt="trilochna" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=trilochna&show_icons=true&locale=en&layout=compact" alt="trilochna" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trilochna&show_icons=true&locale=en" alt="trilochna" /></p>
 
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 
 ## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trilochna" alt="trilochna" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trilochna" alt="trilochna" /></a> </p>
 
 [![@trilochna's Holopin board](https://holopin.me/trilochna)](https://holopin.io/@trilochna)
 
