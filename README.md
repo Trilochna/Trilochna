@@ -61,6 +61,7 @@ Here are some ideas to get you started:
 
 ## 🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trilochna" alt="trilochna" /></a> </p>
+
 [![@trilochna's Holopin board](https://holopin.me/trilochna)](https://holopin.io/@trilochna)
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=trilochna&label=Profile%20views&color=0e75b6&style=flat" alt="trilochna" /> </p>
