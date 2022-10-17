@@ -57,8 +57,6 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trilochna&" alt="trilochna" /></p>
 
-
-
 ## 🏆 GitHub Trophies
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trilochna" alt="trilochna" /></a> </p>
 
