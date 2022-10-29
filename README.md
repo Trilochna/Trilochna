@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 <h1 align="center">(◠‿◕)Hey, there!✨ So, you're here to watch TV📺</h1>
 <h3 align="center">I'm a DevOps Fanatic and Front-End Developer who is looking to work on DSA-based projects.</h3>
 
+<img align="right" alt="Coding" width="300" src="https://giphy.com/stickers/disneystudios-disney-movie-pixar-turning-red-pixars-rz3O9KrvSwr2uDMTps">
+
 - 🔭 I’m currently working on [Data Structures And Algorithms](https://github.com/Trilochna/Data-Structures-And-Algorithms-In-Java)
 
 - 👯 I’m collaborating on [Face Recognition Live Model](https://github.com/piyush033/Face-Recognition-Model)
