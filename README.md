@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 
 - 📄 Check my resume by [Clicking Here!!](https://drive.google.com/file/d/1Oa2NbTlxgoMb2FwanYvSxaKvwiI3oRBY/view?usp=sharing)
 
+
 ## 🌐 Socials:
 <p align="center">
 <a href="https://twitter.com/trilochna_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="trilochna_" height="30" width="40" /></a>
