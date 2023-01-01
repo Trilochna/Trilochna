@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 
 -->
 
-
 <h1 align="center">(◠‿◕)Hey, there!✨ So, you're here to watch TV📺</h1>
 <h3 align="center">I'm a DevOps Fanatic and Front-End Developer who is looking to work on DSA-based projects.</h3>
 
