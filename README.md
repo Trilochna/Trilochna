@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
 -->
 
 <h1 align="center">(◠‿◕)Hey, there!✨ So, you're here to watch TV📺</h1>
