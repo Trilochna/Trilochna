@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Data Structures And Algorithms](https://github.com/Trilochna/Data-Structures-And-Algorithms-In-Java)
 
-- 👯 I’m collaborating on [Face Recognition Live Model](https://github.com/piyush033/Face-Recognition-Model)
+<!-- - 👯 I’m collaborating on [Face Recognition Live Model](https://github.com/piyush033/Face-Recognition-Model) -->
 
 - 📫 Reach me at **vaidtrilochna@gmail.com**
 
@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Cloud Computing, DevOps and it's frameworks**
 
-- 🌱 I’m currently learning **Salesforce Development Platform**
+<!-- - 🌱 I’m currently learning **Salesforce Development Platform** -->
 
-- 📄 Check my resume by [Clicking Here!!](https://drive.google.com/file/d/1Oa2NbTlxgoMb2FwanYvSxaKvwiI3oRBY/view?usp=sharing)
+- 📄 Check my resume by [Clicking Here!!](https://drive.google.com/file/d/1DGIa6N7UOq3C7dy-YcKkx4YBEPnU4vJ7/view?usp=sharing)
 
 
 ## 🌐 Socials:
