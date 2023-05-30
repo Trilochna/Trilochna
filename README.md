@@ -57,7 +57,6 @@ Here are some ideas to get you started:
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trilochna" alt="trilochna" /></a> </p>
 
 
-
 # 📊 GitHub Stats:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trilochna&show_icons=true&locale=en" alt="trilochna" /></p>
