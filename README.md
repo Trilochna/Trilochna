@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available in [my Github Repositories](https://github.com/Trilochna?tab=repositories)
 
-- 📝 Find my articles on medium: [@vaidtrilochna](https://medium.com/@vaidtrilochna)
+<!-- - 📝 Find my articles on medium: [@vaidtrilochna](https://medium.com/@vaidtrilochna) -->
 
 - 💬 Ask me about **Cloud Computing, DevOps and it's frameworks**
 
