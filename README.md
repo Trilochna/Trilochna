@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 <h1 align="center">(◠‿◕)Hey, there!✨ So, you're here to watch TV📺</h1>
 
-
 -->
 
 <h1 align="center">(◠‿◕)Hey, there!✨</h1>
