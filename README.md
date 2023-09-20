@@ -65,9 +65,10 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trilochna&show_icons=true&locale=en&layout=compact" alt="trilochna" /></p>
 
 
-[![@trilochna's Holopin board](https://holopin.me/trilochna)](https://holopin.io/@trilochna)
+<!-- [![@trilochna's Holopin board](https://holopin.me/trilochna)](https://holopin.io/@trilochna) -->
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=trilochna&label=Profile%20views&color=0e75b6&style=flat" alt="trilochna" /> </p>
+
 
 
 
