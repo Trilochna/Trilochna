@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <!-- - 🌱 I’m currently learning **Salesforce Development Platform** -->
 
-- 📄 Check my resume by [Clicking Here!!](https://drive.google.com/file/d/1DGIa6N7UOq3C7dy-YcKkx4YBEPnU4vJ7/view?usp=sharing)
+- 📄 Check my resume by [Clicking Here!!](https://drive.google.com/file/d/119wzvHRH1GI4ZnoYYlW-zpipF5i76kzt/view?usp=sharing)
 
 
 ## 🌐 Socials:
